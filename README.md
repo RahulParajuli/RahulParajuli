@@ -1,7 +1,7 @@
 <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px">
 </h1>
-<img src="https://visitor-badge.glitch.me/badge?page_id=srksuman" height="35">
+<img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35">
 <p>Programming and Web development have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
   <a href="https://www.thebytefactoryshop.com" target="_blank">My website.</a>
 </p>
@@ -109,4 +109,4 @@
 </table>
 
 <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>I love to make you happy,</b> so say hi!<b> I'll try my best</b>😍</em> <br>
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srksuman&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srksuman&count_private=true&show_icons=true&theme=midnight-purple)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple)
