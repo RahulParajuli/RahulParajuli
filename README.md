@@ -21,8 +21,8 @@
 
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to swim and play basketball
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love swimming, play basketball and also love lofi musics.
 
 
 ## Tech Stack :computer:
@@ -108,5 +108,5 @@
 </tbody>
 </table>
 
-<img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>I love to make you happy,</b> so say hi!<b> I'll try my best</b>😍</em> <br>
+<img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br>
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple)
