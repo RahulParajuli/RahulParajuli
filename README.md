@@ -21,7 +21,7 @@
 
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love swimming, play basketball and also love lofi musics.
 
 
