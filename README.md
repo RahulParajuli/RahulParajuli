@@ -3,7 +3,7 @@
 </h1>
 <img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35">
 <p>Programming and Web development have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
-  <a href="https://www.thebytefactoryshop.com" target="_blank">My website.</a>
+  <a href="https://www.rahulparajuli27.com.np" target="_blank">My website.</a>
 </p>
 <a href="https://www.thebytefactoryshop.com" target="_blank">
 <img src="https://i2.wp.com/thebytefactoryshop.com/wp-content/uploads/2021/05/cropped-TBF4.png?fit=229%2C172&ssl=1", height="50px", width="50px"
