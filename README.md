@@ -1,4 +1,4 @@
-<img src="Hi I am rahul Parajuli.gif" height= 100px, width = 320px >
+<img src="Hi I am rahul Parajuli.gif" height= 15vh, width = 80% >
 <!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
 <!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
