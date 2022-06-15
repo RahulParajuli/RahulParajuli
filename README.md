@@ -137,7 +137,7 @@
 <br/>
 <center>
 <table>
-<tbody align="center">
+<tbody align="left">
  <tr>
    
 <td align="center" width="25%">
@@ -220,5 +220,5 @@
   <img src="https://github.com/RahulParajuli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 <!-- <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br> -->
-[![Rahuls's github stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli)](https://github.com/RahulParajuli/github-readme-stats)
-https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple
+<!-- [![Rahuls's github stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli)](https://github.com/RahulParajuli/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple -->
