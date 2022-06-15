@@ -14,7 +14,7 @@
 
 
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Rah(111|ul com)|https://rahulparajuli.com.np)" title="👋 Hi there! I'm (Rah(111|ul np)|https://rahulparajuli.com.np)"/>](https://rahulparajuli.com.np/)
+[<img src="" alt="👋 Hi there! I'm (Rah(111|ul com)|https://rahulparajuli.com.np)" title="👋 Hi there! I'm (Rah(111|ul np)|https://rahulparajuli.com.np)"/>](https://rahulparajuli.com.np/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RahulParajuli.RahulParajuli&color=00cf00)
 
