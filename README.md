@@ -22,12 +22,10 @@
 ## I'm a  Developer and Learner!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love swimming, play basketball and also love lofi musics.
-
 - 🔭 I’m currently working at Eydean Inc
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: rahul.parajuli27@gmail.com
-- ⚡ Fun fact: I binge code
+- ⚡ Fun fact: I binge code, beside that I love swimming, play basketball and also love lofi musics.
 <!-- - 👯 I’ -->
 <!-- - 🤔 I’m looking for help with  -->
 
@@ -75,7 +73,8 @@
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 many open source projects
 	- 𝙰𝚍𝚍 values to businesses
-- 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
+
+<!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 <!-- 	- []()
 	- []() -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
