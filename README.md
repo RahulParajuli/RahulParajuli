@@ -213,12 +213,12 @@
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 </tr>
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RahulParajuli&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=5&theme=tokyonight)]()
 </tbody>
 </table>
 	
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RahulParajuli&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=5&theme=tokyonight)]()
+
 
 <!--  **Snake eating my contribution graph** -->
 <!-- <p align="center">
