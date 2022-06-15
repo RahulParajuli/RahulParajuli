@@ -216,6 +216,10 @@
 
 </tbody>
 </table>
+	
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RahulParajuli&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=5&theme=tokyonight)]()
+
 <!--  **Snake eating my contribution graph** -->
 <!-- <p align="center">
   <img src="https://github.com/RahulParajuli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
