@@ -14,18 +14,18 @@
 
 
 
-[<img src="" alt="👋 Hi there! I'm (Rah(111|ul com)|https://rahulparajuli.com.np)" title="👋 Hi there! I'm (Rah(111|ul np)|https://rahulparajuli.com.np)"/>](https://rahulparajuli.com.np/)
+<!-- [<img src="" alt="👋 Hi there! I'm (Rah(111|ul com)|https://rahulparajuli.com.np)" title="👋 Hi there! I'm (Rah(111|ul np)|https://rahulparajuli.com.np)"/>](https://rahulparajuli.com.np/) -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RahulParajuli.RahulParajuli&color=00cf00)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RahulParajuli.RahulParajuli&color=00cf00) -->
 
 - 🔭 I’m currently working on Eydean Inc
 - 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: rahul.parajuli27@gmail.com
+- ⚡ Fun fact: I binge code
 <!-- - 👯 I’ -->
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about anything
-- 📫 How to reach me: rahul.parajuli27@gmail.com
+
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I binge code
 
 <!--
 <table>
@@ -58,11 +58,9 @@
 <!-- - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) -->
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-- 
+<!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢... -->
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working as Software Engineer 𝚊𝚝 Eydean Inc!
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Contribute to open source projects.
 	- Teach as much people as i can to make this industry grow better.
 	- Become an expertize on machine Learning Engineer.
@@ -74,6 +72,8 @@
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- []()
 	- []()
+<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
+
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
 <!--START_SECTION:activity-->
@@ -216,8 +216,9 @@
 </tbody>
 </table>
  **Snake eating my contribution graph**
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/RahulParajuli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-<img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br>
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple)
+</p>
+<!-- <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br> -->
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=midnight-purple) 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple)
