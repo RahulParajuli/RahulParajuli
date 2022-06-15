@@ -1,6 +1,7 @@
-<h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
-  <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px">
-</h1>
+<img src="Hi I am rahul Parajuli.gif">
+<!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
+<!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
+<!-- </h1> -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35">
 <p>Programming and Web development have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
   <a href="https://www.rahulparajuli27.com.np" target="_blank">My website.</a>
