@@ -1,5 +1,5 @@
 <img src="Hi I am rahul Parajuli.gif" height= 480px, width = 100% padding=0px, margin = 0px>
-<a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/blob/main/devcard.svg" width="40%" align = right alt="Rahul Parajuli's Dev Card"/></a>
+<a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/RahulParajuli/blob/main/devcard.svg" width="40%" align = right alt="Rahul Parajuli's Dev Card"/></a>
 <!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
 <!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
