@@ -1,5 +1,6 @@
-<img src="Hi I am rahul Parajuli.gif" height= 480px, width = 100% padding=0px, margin = 0px>
 <a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/RahulParajuli/blob/main/devcard.svg" width="40%" align = right alt="Rahul Parajuli's Dev Card"/></a>
+<img src="Hi I am rahul Parajuli.gif" height= 280px, width = 55% padding=0px, margin = 0px>
+
 <!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
 <!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
@@ -17,12 +18,11 @@
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RahulParajuli.RahulParajuli&color=00cf00) -->
 
 ## I'm a  Developer and Learner!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🔭 I’m currently working at Eydean Inc
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2022 Goals: Learn the core idea of machine learning.
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: rahul.parajuli27@gmail.com
-- ⚡ Fun fact: I binge code, beside that I love swimming, play basketball and also love lofi musics.
+- ⚡ Fun fact: Every thing starts with "HELLO WORLD"
 <!-- - 👯 I’ -->
 <!-- - 🤔 I’m looking for help with  -->
 
@@ -53,23 +53,11 @@
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Machine Learning Engineer and Software Engineer
+- 🔭 I’m currently working at Eydean Inc
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 https://thebytefactoryshop.com
-- 🎓 𝚂𝚝𝚞𝚍ied 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 Artificial Intelligence 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆olverhampton, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸019
+- 🎓 𝚂𝚝𝚞𝚍ied 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆olverhampton, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸019
 <!-- - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111) -->
 <!-- - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) -->
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-<!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢... -->
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working as Software Engineer 𝚊𝚝 Eydean Inc!
-- - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Contribute to open source projects.
-	- Teach as much people as i can to make this industry grow better.
-	- Become an expertize on machine Learning Engineer.
-
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 many open source projects
-	- 𝙰𝚍𝚍 values to businesses
 
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 <!-- 	- []()
