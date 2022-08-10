@@ -1,4 +1,5 @@
-<img src="Hi I am rahul Parajuli.gif" height= 420px, width = 100% >
+<img src="Hi I am rahul Parajuli.gif" height= 480px, width = 100% padding=0px, margin = 0px>
+<a href="https://app.daily.dev/rahulparajuli"><img src="https://api.daily.dev/devcards/b59f8014e6074b8b974bc650565d6ea7.png?r=qxo" width="40%" align = right alt="Rahul Parajuli's Dev Card"/></a>
 <!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
 <!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
@@ -10,10 +11,6 @@
 <img src="https://i2.wp.com/thebytefactoryshop.com/wp-content/uploads/2021/05/cropped-TBF4.png?fit=229%2C172&ssl=1", height="50px", width="50px"
     alt="">
 </a><br>
-
-
-
-
 
 <!-- [<img src="" alt="👋 Hi there! I'm (Rah(111|ul com)|https://rahulparajuli.com.np)" title="👋 Hi there! I'm (Rah(111|ul np)|https://rahulparajuli.com.np)"/>](https://rahulparajuli.com.np/) -->
 
