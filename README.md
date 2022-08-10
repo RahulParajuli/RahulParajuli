@@ -116,12 +116,12 @@
 </a> -->
 
 ## Tech Stack :computer:
-<div align="center">
+<div align="left">
 <img width="55" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"/>
 <img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
-<img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagohack.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F07%2FFlask-logo.png&f=1&nofb=1"/>
+<img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagohack.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F07%2FFlask-logo.png&f=1&nofb=1"/><br>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"/>
 
@@ -131,7 +131,7 @@
 
 <!-- <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/> -->
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/><br>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg"/>
 
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/>
@@ -142,10 +142,10 @@
 </div>
 
 
-<br/>
-<center>
-<table>
-<tbody align="left">
+<!-- <br/> -->
+<!-- <center> -->
+<!-- <table> -->
+<!-- <tbody align="left"> -->
 <!--  <tr>
    
 <td align="center" width="25%">
@@ -220,10 +220,9 @@
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 </tr> -->
+<!-- </tbody> -->
+<!-- </table> -->
 
-</tbody>
-</table>
-	
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RahulParajuli&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=5&theme=tokyonight)]()
 
