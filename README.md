@@ -1,11 +1,14 @@
-<a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/RahulParajuli/blob/main/devcard.svg" width="40%" align = right alt="Rahul Parajuli's Dev Card"/></a>
-<img src="Hi I am rahul Parajuli.gif" height= 265px, width = 55% padding=0px, margin = 0px>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<!-- <h1> Hi, I'm Rahul Parajuli <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/> -->
-<!--   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
+![Metrics](https://metrics.lecoq.io/RahulParajuli?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/RahulParajuli/blob/main/devcard.svg" width="30%" align = right alt="Rahul Parajuli's Dev Card"/></a>
+
+
+<!-- <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35">
-<p>Programming and Web development have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
+<!-- <img src="Hi I am rahul Parajuli.gif" height= 250px, width = 45%, align ="right", margin-top = 20px> -->
+<p>Machine Learning and Data Science have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
   <a href="https://www.rahulparajuli27.com.np" target="_blank">My website.</a>
 </p>
 <a href="https://www.thebytefactoryshop.com" target="_blank">
@@ -17,18 +20,16 @@
 
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RahulParajuli.RahulParajuli&color=00cf00) -->
 
-## I'm a  Developer and Learner!
+<!-- ## I'm a  Developer and Learner!
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn the core idea of machine learning.
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: rahul.parajuli27@gmail.com
-- ⚡ Fun fact: Every thing starts with "HELLO WORLD"
+-->
+
 <!-- - 👯 I’ -->
 <!-- - 🤔 I’m looking for help with  -->
 
 <!-- - 😄 Pronouns: ... -->
-
 <!--
+
 <table>
 	<tr>
 	</tr>
@@ -52,12 +53,23 @@
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Machine Learning Engineer and Software Engineer
+
+- 🖥 Machine Learning Engineer and Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My social- </b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>]()
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
+
 - 🔭 I’m currently working at Eydean Inc
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 https://thebytefactoryshop.com
-- 🎓 𝚂𝚝𝚞𝚍ied 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆olverhampton, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸019
+- 🥅 2022 Goals: Work in the field of Machine Learning.
+- 📫 How to reach me: rahul.parajuli27@gmail.com
+- ⚡ Fun fact: Every thing starts with "HELLO WORLD"
+
+<!-- - 🎓 𝚂𝚝𝚞𝚍ied 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆olverhampton, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸019 -->
+<!-- - 🌱 I’m currently learning Machine Learning -->
+
+
 <!-- - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111) -->
-<!-- - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) -->
+<!-- - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/Windows.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) -->
 
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 <!-- 	- []()
@@ -81,17 +93,18 @@
 </a>
 -->
 
-<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 -->
-<!-- ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->
-
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+<!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>]()
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
+-->
+## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Activities
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=midnight-purple&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&hide=prs,contribs?username=RahulParajuli&count_private=true?username=RahulParajuli&show_icons=true&layout=compact&theme=midnight-purple)
 
-<!-- ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
+<!-- ## 🔔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
 <!-- - 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded) -->
 <!-- - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
@@ -116,7 +129,7 @@
 </a> -->
 
 ## Tech Stack :computer:
-<div align="left">
+<div align="left", margin-left=0px>
 <img width="55" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"/>
 <img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
@@ -126,8 +139,8 @@
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"/>
 
 
-<img width="55" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.servernoobs.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fmongodb-logo-1.png&f=1&nofb=1'/>
-	
+
+<img width="55" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.servernoobs.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fmongodb-logo-1.png&f=1&nofb=1'/>	
 
 <!-- <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/> -->
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
@@ -142,18 +155,19 @@
 </div>
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=6&theme=tokyonight)]()
+
+
 <!-- <br/> -->
 <!-- <center> -->
-<!-- <table> -->
-<!-- <tbody align="left"> -->
-<!--  <tr>
-   
+<!-- <table>
+<tbody align="left">
+<tr>   
 <td align="center" width="25%">
 <span><b><center>HTML</center></b></span><br/> 
 <img height=75px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
-   
 <td align="center" width="30%">
 <span><b><center>CSS</center></b></span><br/>  
 <img height=75px src="https://img.icons8.com/color/2x/css3.png"> 
@@ -218,13 +232,17 @@
  <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-</tr> -->
-<!-- </tbody> -->
-<!-- </table> -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RahulParajuli&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=5&theme=tokyonight)]()
+</td>
+
+</tr>
+
+</tbody>
+</table> -->
+
+
+
+
 
 <!--  **Snake eating my contribution graph** -->
 <!-- <p align="center">
@@ -233,3 +251,6 @@
 <!-- <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br> -->
 <!-- [![Rahuls's github stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli)](https://github.com/RahulParajuli/github-readme-stats)
 https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple -->
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RahulParajuli&show_icons=true&hide_border=true"/> -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact"/> -->
