@@ -54,8 +54,7 @@
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 🖥 Machine Learning Engineer and Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My social- </b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
+- 🖥 Machine Learning Engineer | Data Scientist | Backend Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My socials -</b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>]()
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
 
@@ -102,9 +101,9 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
 -->
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Activities
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=midnight-purple&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&hide=prs,contribs?username=RahulParajuli&count_private=true?username=RahulParajuli&show_icons=true&layout=compact&theme=midnight-purple)
-
 
 <!-- ## 🔔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
@@ -130,34 +129,41 @@
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Connect%20on-twitter-blue.svg?style=for-the-badge&logo=twitter" alt="Subscribe my Youtube Channel">
 </a> -->
 
+
 ## Tech Stack :computer:
-<div align="left", margin-left=0px>
-<img width="55" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"/>
-<img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcss-3-logo-clipart.jpg&f=1&nofb=1"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
-<img width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagohack.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F07%2FFlask-logo.png&f=1&nofb=1"/><br>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"/>
+<code><img  height="40" width="40" src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img  height="40" width="40" src="https://img.icons8.com/color/2x/css3.png"></code>
+<code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+<code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
+<code><img  height="40" width="40" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"></code>
+<code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"> </code>
+<code>
+<img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"></code>
+<code><img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagohack.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F07%2FFlask-logo.png&f=1&nofb=1"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"></code>
+<code><img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.servernoobs.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fmongodb-logo-1.png&f=1&nofb=1"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"></code>
+<code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg"></code>
+<code><img  height="40" width="40" src="https://banner2.cleanpng.com/20180804/egp/kisspng-apache-spark-logo-machine-learning-cluster-analysi-artificial-intelligence-5b65ad33ccb724.5420479115333901318385.jpg"></code>
+<code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png"></code>
+<code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png"></code>
 
 
 
-<img width="55" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.servernoobs.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fmongodb-logo-1.png&f=1&nofb=1'/>	
 
-<!-- <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/> -->
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/><br>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg"/>
 
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg"/>
 
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wordpress-icon.svg"/>
+<div align="center">
+
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=6&theme=tokyonight)]() -->
+
 </div>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=6&theme=tokyonight)]()
-
+</div>
 
 <!-- <br/> -->
 <!-- <center> -->
