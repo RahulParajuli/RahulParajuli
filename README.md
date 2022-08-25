@@ -1,4 +1,4 @@
-<img src="solar.gif" height = 80>
+<img src="solars.gif">
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 ![Metrics](https://metrics.lecoq.io/RahulParajuli?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
@@ -131,16 +131,12 @@
 
 
 ## Tech Stack :computer:
-<code><img  height="40" width="40" src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"></code>
 <code><img  height="40" width="40" src="https://img.icons8.com/color/2x/css3.png"></code>
 <code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
-<code><img  height="40" width="40" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"></code>
 <code><img  height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"> </code>
-<code>
-<img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1"></code>
-<code><img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagohack.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F07%2FFlask-logo.png&f=1&nofb=1"></code>
+<code><img  height="40" width="40" src="https://eduardovra.github.io/assets/img/flask-logo.png"></code>
 <code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg"></code>
 <code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"></code>
 <code><img  height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.servernoobs.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fmongodb-logo-1.png&f=1&nofb=1"></code>
@@ -149,16 +145,13 @@
 <code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg"></code>
 <code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg"></code>
 <code><img  height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg"></code>
-<code><img  height="40" width="40" src="https://banner2.cleanpng.com/20180804/egp/kisspng-apache-spark-logo-machine-learning-cluster-analysi-artificial-intelligence-5b65ad33ccb724.5420479115333901318385.jpg"></code>
+<code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
 <code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png"></code>
 <code><img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png"></code>
+<code><img  height="40" width="40" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"> </code>
 
 
-
-
-
-
-<div align="center">
+<div align="center" width = 80%>
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&langs_count=6&theme=tokyonight)]() -->
 
