@@ -55,14 +55,14 @@
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Machine Learning Engineer | Data Scientist | Backend Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My socials -</b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>]()
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>](https://twitter.com/RahulParajuli27)
 - 🔭 I’m currently working at Eydean Inc
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 https://thebytefactoryshop.com
 - 🥅 2022 Goals: Work in the field of Machine Learning.
 - 📫 How to reach me: rahul.parajuli27@gmail.com
 - ⚡ Fun fact: Every thing starts with "HELLO WORLD"
+
+<!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]() -->
 
 <!-- - 🎓 𝚂𝚝𝚞𝚍ied 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆olverhampton, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸019 -->
 <!-- - 🌱 I’m currently learning Machine Learning -->
@@ -102,8 +102,17 @@
 -->
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Activities
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=midnight-purple&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=vision-friendly-dark">
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&hide=prs,contribs?username=RahulParajuli&count_private=true?username=RahulParajuli&show_icons=true&layout=compact&theme=midnight-purple)
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&theme=nightowl" /> -->
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=midnight-purple&hide_border=true&fire=DD2727)](https://git.io/streak-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=vision-friendly-dark)](https://github.com/RahulParajuli/github-readme-stats) -->
+
 
 <!-- ## 🔔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
@@ -244,13 +253,18 @@
 
 
 
-<!--  **Snake eating my contribution graph** -->
-<!-- <p align="center">
-  <img src="https://github.com/RahulParajuli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
+<!-- **Snake eating my contribution graph** -->
+<!-- <img src="https://github.com/RahulParajuli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+
 <!-- <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>caffine dependancy while coding</b> so say hi!<b> I'll try my best</b></em> <br> -->
+
 <!-- [![Rahuls's github stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli)](https://github.com/RahulParajuli/github-readme-stats)
 https://github-readme-stats.vercel.app/api?username=RahulParajuli&count_private=true&show_icons=true&theme=midnight-purple -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=RahulParajuli&show_icons=true&hide_border=true"/> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact"/> -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&theme=tokyonight) -->
+
+
+
