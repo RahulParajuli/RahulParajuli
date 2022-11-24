@@ -105,10 +105,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&hide=prs,contribs?username=RahulParajuli&count_private=true?username=RahulParajuli&show_icons=true&layout=compact&theme=midnight-purple)
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=vision-friendly-dark">
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&layout=compact&theme=vision-friendly-dark"> -->
 
 <!-- <img align="right" height = 200px width= 200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulParajuli&theme=nightowl" /> -->
 
