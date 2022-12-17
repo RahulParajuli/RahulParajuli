@@ -102,9 +102,17 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahul on Instagram" title="Follow Rahul on Instagram"/>]()
 -->
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Activities
+<div align = "left" width = 20px>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulParajuli&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div>
+
+<div align = "right">
+	
+<!-- ![](https://leetcard.jacoblin.cool/RahulParajuli?ext=heatmap) -->
+
+</div>
 <!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulParajuli&hide=prs,contribs?username=RahulParajuli&count_private=true?username=RahulParajuli&show_icons=true&layout=compact&theme=midnight-purple)
 
@@ -170,6 +178,8 @@
 
 </div>
 </div>
+
+
 
 <!-- <br/> -->
 <!-- <center> -->
