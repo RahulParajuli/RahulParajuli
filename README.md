@@ -57,7 +57,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Machine Learning Engineer | Data Scientist | Backend Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My socials -</b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>](https://twitter.com/RahulParajuli27)
-- 🔭 I’m currently working at Eydean Inc
+- 🔭 I’m currently working at Tekkon Technologies
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 https://thebytefactoryshop.com
 - 🥅 2022 Goals: Work in the field of Machine Learning.
 - 📫 How to reach me: rahul.parajuli27@gmail.com
