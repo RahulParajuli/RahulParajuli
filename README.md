@@ -8,7 +8,7 @@
 
 <!-- <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px"> -->
 <!-- </h1> -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=RahulParajuli" height="35"> -->
 <!-- <img src="Hi I am rahul Parajuli.gif" height= 250px, width = 45%, align ="right", margin-top = 20px> -->
 <p>Machine Learning and Data Science have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
   <a href="https://www.rahulparajuli27.com.np" target="_blank">My website.</a>
