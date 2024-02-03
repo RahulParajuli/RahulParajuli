@@ -2,7 +2,6 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-![Metrics](https://metrics.lecoq.io/RahulParajuli?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 <a href="https://app.daily.dev/rahulparajuli"><img src="https://github.com/RahulParajuli/RahulParajuli/blob/main/devcard.svg" width="30%" align = right alt="Rahul Parajuli's Dev Card"/></a>
 
 
@@ -57,9 +56,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Machine Learning Engineer | Data Scientist | Backend Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>My socials -</b> [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahul on LinkedIn" title="Follow Rahul on LinkedIn"/>](https://www.linkedin.com/in/rahul-parajuli-604924198/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahul on Twitter" title="Follow Rahul on Twitter"/>](https://twitter.com/RahulParajuli27)
-- 🔭 I’m currently working at Tekkon Technologies
+- 🔭 I’m currently working
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 https://thebytefactoryshop.com
-- 🥅 2022 Goals: Work in the field of Machine Learning.
+- 🥅 2024 Goal: Build something, no one believed.
 - 📫 How to reach me: rahul.parajuli27@gmail.com
 - ⚡ Fun fact: Every thing starts with "HELLO WORLD"
 
