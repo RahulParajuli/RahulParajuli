@@ -37,7 +37,7 @@
 
 ---
 
-### 🏛️ Universal AI & ML Infrastructure
+### 🏛️ My tech stack
 
 <table border="0" width="100%">
   <tr>
@@ -152,5 +152,5 @@
 <p align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=RahulParajuli.RahulParajuli&color=B967FF" alt="Visitors" /> -->
   <br>
-  <i> Constantly learning and doing! 🚀</i>
+  <i> “Don’t watch the clock; do what it does. Keep going.” <br> “You don’t have to be great to start, but you have to start to be great.” </i>
 </p>
