@@ -7,7 +7,7 @@
 <table border="0">
   <tr>
     <td width="70%" valign="top">
-      <h3>🚀 Technical Background</h3>
+      <h3>Technical Background</h3>
       <p align="justify">
         I'm a <b>Machine Learning Specialist</b> and <b>Data Scientist</b> dedicated to creating software that thinks, adapts, and inspires. My work lives at the edge of possibility, where raw data meets refined engineering. I am driven by the challenge of transforming complex datasets into intelligent systems that solve real-world problems with precision and elegance.
       </p>
@@ -37,7 +37,7 @@
 
 ---
 
-### 🏛️ My tech stack
+### My tech stack
 
 <table border="0" width="100%">
   <tr>
@@ -124,7 +124,7 @@
 
 ---
 
-### 💎 Performance Analytics
+### Performance Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=RahulParajuli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -136,9 +136,9 @@
 </p>
 
 ---
-
+### Performance Activity
 <p align="center">
-  <h4>📈 Performance Activity</h4>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulParajuli&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
