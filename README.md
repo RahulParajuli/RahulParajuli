@@ -13,7 +13,7 @@
       </p>
       <ul>
         <li>🔭 <b>Core Focus</b>: Architecting high-scale AI infrastructure.</li>
-        <li>🎯 <b>2025 Vision</b>: Launching an end-to-end intelligence platform.</li>
+        <li>🎯 <b>2026 Vision</b>: Launching an end-to-end intelligence platform.</li>
         <li>🧪 <b>Research Area</b>: Generative AI & Predictive Modeling.</li>
         <li>📬 <b>Direct Reach</b>: <a href="mailto:rahul.parajuli27@gmail.com">rahul.parajuli27@gmail.com</a></li>
       </ul>
